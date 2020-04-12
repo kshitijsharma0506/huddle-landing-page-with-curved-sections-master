@@ -15,3 +15,5 @@ basic understanding of HTML, CSS and (sometimes) JavaScript.
 Practice using version control by creating your own GitHub repository for this challenge. This has the added benefit of being able to publish the site for free on GitHub Pages. Find out more about GitHub Pages here: [https://pages.github.com](https://pages.github.com).
 
 Also, you could try building this project in a team. This is a great way to practice collaborative coding.
+
+![Screenshot_2020-04-13 Frontend Mentor Huddle landing page with curved sections](https://user-images.githubusercontent.com/43933347/79077894-33d24600-7d22-11ea-8080-68f244cf4fd1.png)
